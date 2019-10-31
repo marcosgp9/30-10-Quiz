@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="pregunta">Este programa es la ostia.</string>
+
+    <string-array name="listaPreguntas">
+        <item name="p1">Este programa es buenisimo?</item>
+        <item name="p2">Marcos está mamadisimo?</item>
+        <item name="p3">Fernando es listo?</item>
+        <item name="p4">Es Macia el mejor profesor?</item>
+        <item name="p5">Marcos hace la pelota para sacar mejor nota?</item>
+    </string-array>
+
+    <string-array name="listaRespuestas">
+        <item name="r1">TRUE</item>
+        <item name="r2">TRUE</item>
+        <item name="r3">FALSE</item>
+        <item name="r4">TRUE</item>
+        <item name="r5">TRUE</item>
+    </string-array>
+
+</resources>
